@@ -1,4 +1,3 @@
-
 ## 进入正题...
 
 Java GC发展至今，已经推出了好几代收集器，包括Serial、ParNew、Parallel、CMS、G1以及Java11中最新的ZGC。每一代GC都对前一代存在的问题做出了很大的改善。
