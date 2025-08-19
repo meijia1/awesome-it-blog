@@ -1,9 +1,3 @@
-## 个人原创技术文章
-
----
-
-
-
 > 欢迎关注个人微信公众号【Mr羽墨青衫】，目前主要关注Java本身和性能优化层面。
 >
 > ![wx](http://feathers.zrbcool.top/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
