@@ -9,6 +9,7 @@
 * [Motan高可用策略](https://github.com/Lord-X/awesome-it-blog/blob/master/Motan/Motan_HA%E7%AD%96%E7%95%A5.md)
 
 ---
+Service Provider Interface (服务提供者接口)
 
 ### 0 Motan中的SPI
 
